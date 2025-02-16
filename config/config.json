@@ -1,0 +1,28 @@
+{
+  "prefix": "/",
+
+  "categoryEmployeId": "1337059903335825408",
+
+  "defaultRoleId": "1339165801244266546",
+  "CDDRoleID": "1337056773814616085",
+  "chefEquipeRoleId": "1337059208277004405",
+
+  "embedMessage1": {
+    "title": "Message 1",
+    "description": "Description du message 1",
+    "color": "#0099ff",
+    "imageUrl": "https://glife.fr/wp-content/uploads/2023/05/93Oe5qJ_400x400.jpg"
+  },
+
+  "embedMessage2": {
+    "title": "Message 2",
+    "description": "Description du message 2\n dqsdqsdqsdqsdqs \n qsdqsdqsdqsd \n qsdhjkqsbjkdshjk",
+    "color": "#ff9900",
+    "imageUrl": "https://glife.fr/wp-content/uploads/2023/05/93Oe5qJ_400x400.jpg"
+  },
+  
+  "googleSheetId": "1bh1vbA25QlpTEWDMDDB4-GNRdfln0aCiVOHx_Wy-xZs",
+  "EMPLOYEELIST_SHEET_ID": "0",
+  "PAYE_SHEET_ID": "695057616",
+  "PAYE_2_SHEET_ID": "2003035144"
+}

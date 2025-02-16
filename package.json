@@ -1,0 +1,23 @@
+{
+  "name": "bot-oklmprodcompta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7",
+    "g-sheets-api": "^2.2.0",
+    "google-auth-library": "^9.15.1",
+    "google-spreadsheet": "^4.1.4",
+    "googleapis": "^144.0.0",
+    "undici": "^7.3.0",
+    "web-streams-polyfill": "^4.1.0"
+  }
+}
